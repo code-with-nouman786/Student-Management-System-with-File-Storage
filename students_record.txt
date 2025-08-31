@@ -1,0 +1,1 @@
+{'Name': 'Nouman Rehmat', 'RollNo': '101010', 'Marks': [78, 85, 89], 'Average': 84.0, 'Grade': 'B'}
